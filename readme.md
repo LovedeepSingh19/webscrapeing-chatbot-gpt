@@ -1,6 +1,6 @@
-# ChatGPT Chatbot
+# ChatGPT WebScraping Chatbot
 
-This is a ChatGPT chatbot written in Node.js that runs in the terminal
+This is a WebScraping chatbot written in Node.js that runs in the terminal
 
 ## Usage
 
